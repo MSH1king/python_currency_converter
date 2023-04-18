@@ -45,6 +45,15 @@ meowais.official@gmail.com
 GITHUB
 
 
+Goto
+
+C:\Users\S\PycharmProjects\pythonProject\
+
+GITHUB
+https://github.com/MSH1king/python_currency_converter.git
+
+viva include
+
 
 
 
