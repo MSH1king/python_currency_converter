@@ -15,7 +15,7 @@ def getvals():
     print(f"The value of username is {uservalue.get()}")
     print(f"The value of password is {passvalue.get()}")
 
-    if uservalue.get() == "Muhammad" or passvalue.get() == "Owais Sir 12345":
+    if uservalue.get() == "BCS201003" or passvalue.get() == "Owais_13579":
         print("Congratulations! complete registration")
 
     #################
